@@ -1,0 +1,397 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Speculum scripturale schismaticorum or, A scripture looking--glasse, most exactly characterizing all sorts of schismaticks: wherein, as, in a looking-glass, face answers face; so, scriptures paint seducers root and race: And, that they are the seedmen of all evil; and, must be shun'd, as serpents, or the Devil.</title>
+            <author>Vicars, John, 1579 or 80-1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95899</idno>
+            <idno type="STC">Wing V329</idno>
+            <idno type="STC">Thomason 669.f.14[65]</idno>
+            <idno type="STC">ESTC R211250</idno>
+            <idno type="EEBO-CITATION">99869979</idno>
+            <idno type="PROQUEST">99869979</idno>
+            <idno type="VID">163052</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95899)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 163052)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f14[65])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Speculum scripturale schismaticorum or, A scripture looking--glasse, most exactly characterizing all sorts of schismaticks: wherein, as, in a looking-glass, face answers face; so, scriptures paint seducers root and race: And, that they are the seedmen of all evil; and, must be shun'd, as serpents, or the Devil.</title>
+                  <author>Vicars, John, 1579 or 80-1652.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.M.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: John Vicars.</note>
+                  <note>The words "As, in a ... root and race:" and "And, that they ... or the Devil." are gathered in braces on the title page.</note>
+                  <note>Annotation on Thomason copy: "Aug: 8".</note>
+                  <note>Reproduction of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian sects --  England --  Early works to 1800.</term>
+               <term>Schism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-07</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:163052:1" rendition="simple:additions"/>
+            <head>Speculum Scripturale Schiſmaticorum:
+OR,
+A SCRIPTURE LOOKING—GLASSE,
+MOST EXACTLY CHARACTERIZING ALL SORTS OF SCHISMATICKS:
+Wherein,
+<l>As, in a Looking-Glaſs, Face anſwers Face;</l>
+               <l>So, Scriptures paint Seducers Root and Race:</l>
+               <l>And, that they are the Seedſmen of all Evil;</l>
+               <l>And, muſt be ſhun'd, as Serpents, or the Devil.</l>
+            </head>
+            <epigraph>
+               <bibl>Prov. 30. 11.</bibl>
+               <q>Ther is a Generation that is pure in their own eyes (<hi>ſuch are our Independents, and all ſorts of Schiſmaticks, who call themſelves Saints, and the Godly Party</hi>) but yet, is not waſhed from their Filthi<g ref="char:EOLhyphen"/>neſs. Who ſay, Stand by thy ſelf, come not neer me; for I am holier than Thou:</q>
+               <q>But, Theſe (ſaith the Lord) are a ſmoke in my noſe, and a fire that burns all the day.</q>
+               <bibl>Iſa. 65. 5.</bibl>
+               <bibl>ROM. 16. 17, 18.</bibl>
+               <q>Now I beſeech you, Brethren, Mark them which cauſe Diviſions and Offences among you, (<hi>And, do not Independents, and all Sectaries this among us?</hi>) contrary to the Doctrine which ye have
+learned, and avoid them: For, they that are ſuch, ſerve not our Lord Jeſus, but their own bellies; and by good words and fair ſpeeches (<hi>juſt, as our Sectaries do</hi>) deceive the hearts of the Simple.</q>
+            </epigraph>
+            <p n="1">
+               <label>The Scripture Looking-Glaſs.</label> 1. <hi>KOrah, Dathan</hi> and <hi>Abiram</hi> roſe up before <hi>Moſes</hi> and <hi>Aaron,</hi>
+with certain of the children of Iſrael, 250 <hi>Princes, men famous
+in the Congregation, and gathered themſelves together againſt Moſes
+and Aaron, and ſaid unto them; Ye take too much upon you, ſeeing all the
+Congregation of the Lord are holy, every one of them, and the Lord is a<g ref="char:EOLhyphen"/>mong
+them. Wherefore (then) lift ye up your ſelves above the Congre<g ref="char:EOLhyphen"/>gation
+of the Lord?</hi> Num. 16. 1, 2, 3. But, for all their moſt wicked and
+proud pretence of Holineſs, <hi>Moſes</hi> pronounced them all to be moſt
+wicked and rebellious men, and they were moſt fearfully ſwallowed up
+alive into the earth, and ſo, periſhed moſt miſerably, for their Pride,
+Rebellion, and Hypocriſie. from <hi>ver.</hi> 26. to 33.</p>
+            <p n="1">
+               <label>The Schiſmaticall Reflection, or, Face anſwering Face.</label> I. Our Independents, Anabaptiſts, Antinomians, and ſuch like children of Errour and Schiſm (ſome of them, I confeſs, men famous in their Generation, for parts
+and guifts) have alſo from time to time gathered themſelves together (juſt like thoſe proud, rebellious and hypocriticall men) againſt our Magiſtrates and Miniſters
+(both in Pulpits, Printers preſſes, and private Conventicles) and moſt factiouſly and ſeditiouſly ſay of them, and unto them, <hi>To take too much upon you,</hi> in going about
+to confine and conjure all Religion and Worſhip of God into the power of the Parliament and Synodical Aſſembly of your Black-coats and Legal Preachers; ſeeing
+that all our Congregations are made up only of Saints, and a godly Party, even every one of them; and ſince that, only King <hi>Jeſus</hi> ought to reign and rule over us, both
+in conſcience and practice; therefore, no earthly coercive power is to be exerciſed over us, to compel us to worſhip and ſerve God, or to hold any other opinions in matters
+of Religion, than our own conſciences do preſcribe and dictate unto us. And are nor theſe words of ambition, pride, jealouſie and ſedition (as learned and religious Mr.
+<hi>Deodate</hi> wel notes) againſt the order and Government eſtabliſhed by God himſelf; as if Gods ordinary gifts of grace did free them from all manner of ſubjection,
+and did confound all manner of Order, by an equal popularity, or Agreement of the People; thus he. But, the Lord our God himſelf hath already begun moſt remark<g ref="char:EOLhyphen"/>ably
+to declare and manifeſt unto us all, very many of theſe men to be moſt wicked, proud, rebellious, and moſt notorious ſelf-ſeeking Hypocrites and diſſemblers, who
+[thus] craftily and deceitfully endeavour to overthrow and deſtroy our rightfull Magiſtracie, and truly religious Miniſtry, and all godly Government, Order and
+Chriſtian unity; and (however they craftily pretend King <hi>Jeſus,</hi> only, to be their Governour, as <hi>Judas Iſcariot</hi> called Chriſt, Maſter, yet they cannot endure his preciſe
+and ſtrict Government, and therefore ſtruggle, though with all deceivableneſſe that may be) to introduce an accurſed and intolerable Toleration of all ſorts of Licen<g ref="char:EOLhyphen"/>tiouſneſs
+(eſpecially in matters of Religion) profaneneſſe, and atheiſticall Anarchie: And therefore, if ſome of the Grandecs and Heads of this Schiſmatical Faction
+dye the common death of all men, I ſhall [moſt juſtly] mightily admire it.</p>
+            <p n="2">
+               <label>The Scripture Looking-Glaſs.</label> II. <hi>Jeroboam,</hi> that notorious Idolater, who made Iſrael to ſin by
+his golden Calves, and deceitful trick of Eaſe to the people, in their
+worſhipping of God at Jeruſalem; added this wickedneſs, alſo, there<g ref="char:EOLhyphen"/>unto,
+<hi>That he made Prieſts of the loweſt and baſeſt of the People, which
+were not of the Sons of</hi> Levi. 1 King. 12. 31.</p>
+            <p n="2">
+               <label>The Schiſmaticall Reflection, or, Face anſwering Face.</label> II. The Independents, Anabaptiſts, Antinomians, and all other Sectaries and Schiſmaticks, unto their ſins of Separation from us, their Wil-worſhip, Rebellion
+againſt Magiſtracie and Miniſtry, and that notorious deceitful trick of theirs, Liberty, or Licentiouſneſs, of conſcience to do what they liſt in matters of Religion, eſpe<g ref="char:EOLhyphen"/>cially;
+Have added this wickedneſs alſo, That they make Mechanicks, Mercers, Linnen-Drapers, Taylers, Coblers, Glovers, Porters and Chicken-men, and ſuch like
+baſe, bold, and illiterate fellows (yea, they have not been aſhamed to make brazen faced Huſwifs, and impudent women) to be their Preachers; and all under the cheating-colour
+of guifted perſons, forſooth: And with moſt foul and groſſe diſgraces, do contemn and ſcorn the learned, godly, grave, and Orthodox Miniſters of the Lord,
+whom God himſelf hath ſet apart for the Miniſtry, both by an outward and inward miſſion and qualification of Parts and Piety.</p>
+            <p n="3">
+               <label>The Scripture Looking-Glaſs.</label> 
+               <hi>III.</hi> Now, this I ſay, (<hi>ſayes the Apoſtle Paul</hi>) that every one of you ſaith, I am of
+Paul, and I of Apollo; I am of Cephas, and I am of Chriſt: Is Chriſt divided? was Paul
+crucified for you? Are ye not, <hi>herein,</hi> carnall? <hi>in thus, dividing Chriſt into Sects and
+Schiſmes? And, are, thus, become</hi> children, toſſed to and fro, and carried about with
+every winde of Doctrine, by the ſleight of men, and cunning craftineſſe, whereby they lie in
+wait to deceive. 1 <hi>Cor. 1. 12, 13. &amp; 1 Cor. 3. 3, 4. and Epheſ.</hi> 4. 14.</p>
+            <p n="3">
+               <label>The Schiſmaticall Reflection, or, Face anſwering Face.</label> III. And do not every one of our Independents, and Sectaries of all ſorts, ſay thus alſo? I am of M. <hi>T. Goodwins</hi> ſeparate Church-way; I am of <hi>J. Goodwins</hi> Church; I of
+M. <hi>Lockiers</hi> Church; I of M. <hi>S. Simſons;</hi> And I of learned <hi>K<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffin</hi> the Glovers Church. And, in their thus irregularly, and unauthoritatively dividing Chriſt into unwarranted
+Sects, Schiſms, factions and fractions, are they not carnal and earthly-minded men? yea, are they not (as the Apoſtle fitly terms them) vain and wanton children, never ſet<g ref="char:EOLhyphen"/>led,
+never contented, but toſſed too and fro with every puff and winde of falſe, dangerous and deſtructive Doctrines, Blaſphemies, conceited New-Lights, empty and un<g ref="char:EOLhyphen"/>grounded
+Revelations and Enthuſiaſms, and thus moſt craftily cozening and deceiving, and being deceived, and under holy names ſeparating from the reſt of their faith<g ref="char:EOLhyphen"/>ful
+Brethren; and not conſidering, that though Chriſt hath divers Miniſters and Inſtruments in his Church; yet that all make up but one Church, one Body, one Kingdom.</p>
+            <p n="4">
+               <label>The Scripture Looking-Glaſs.</label> 
+               <hi>IIII.</hi> This, know alſo, my Brethren (<hi>ſayes the Apoſtle Paul</hi>) That in the laſt dayes,
+perillous times ſhall come; for, men ſhall be Lovers of themſelves, covetous, boaſters, proud,
+blaſphemers, diſobedient to parents, and without naturall affection, unthankfull, unholy,
+truce-breakers, falſe-accuſers, incontinent, deſpiſers of thoſe that are good, headie, and
+high-minded, traitours, having a form of godlineſſe, but denying the power thereof; from
+ſuch (<hi>my Brethren</hi>) turn away: for, theſe will not endure ſound Doctrine; but, after
+their own luſts, heap to themſelves Teachers, having itching ears, and turning away from
+the truth, being turned unto fables. 2 <hi>Tim. 3. 1, 2, 3, 4, 5, 8, &amp;c.</hi> 13.</p>
+            <p n="4">
+               <label>The Schiſmaticall Reflection, or, Face anſwering Face.</label> IV. And are not we (my deer Brethren) now in <hi>England</hi> and <hi>London,</hi> fallen into theſe perllious times, and dangerous dayes? And are not our Independents, and all
+other Sectaries of theſe our dayes (as here deſcribed by the Spirit of God) moſt notorious ſelf-lovers, and extreme covetous? Are they not (moſt of them) moſt proud
+boaſters of themſelves to be Saints, and the onely godly Partie? Are they not moſt fearful blaſphemers? Witneſs <hi>Paul Beſt, John Goodwin, Price,</hi> and <hi>Quarterman</hi> two of
+<hi>Goodwins</hi> diſciples, with many others. Are they not diſobedient to Parents, and without all natural affection? yea, even down-right Paricides (and Regicides too) ſome of
+them, who upon conceits of pretended Revelations, and moſt falſe and fallacious impulſes of the Spirit, have ſlain their neereſt and deereſt of bloud unto them? as He in
+<hi>Ireland,</hi> who, thus, ſacrificed his own Son; And, a Souldier, very lately of S. <hi>Tho. Fairfax</hi> his Army, who on the marriage day of his own Siſter, having given his own
+natural Father a great blow on the ear (upon occaſion of a Revelation, as he told his Father, that he muſt kil him) vehemently endeavoured with his ſword drawn, to
+have murthered his Father, had he not been moſt violently reſtrained and hindered by company that came into the room to reſcue his Father, at an eminent Gentle<g ref="char:EOLhyphen"/>mans
+houſe in <hi>Bow</hi> neer <hi>London?</hi> Are they not moſt unthankful wretches both to God and men for that work of Reformation begun among us, and juſt liberty to ſerve
+God from the Prelats Tyranny, which, ten yeers before that, they ſeemed (with us) moſt greedily to deſire; but now moſt extremely hate it, except onely in their own fan<g ref="char:EOLhyphen"/>taſtical
+way? Are they not moſt abominable Covenant breakers and abuſers? witneſs, wicked <hi>Cham, aliàs, Cann,</hi> the Printer; and moſt ſlanderous falſe-accuſers of our
+moſt precious Parliament-members, and other eminent Gentlemen in City and Country? Are they not (many of them) moſt filthily incontinent, witneſs Mr. <hi>Gun</hi> of
+<hi>Southwark,</hi> even one of their precious Preachers, and others alſo? Are they not moſt proud deſpiſers of all our beſt, graveſt and godlieſt Miniſters, whom they moſt contu<g ref="char:EOLhyphen"/>meliouſly
+call Black-coats, and Antichriſtian Legal Preachers? endeavouring to ſtarve them up, and ſo to deprive us of them, in denying them competent maintenance.
+Are they not moſt inſolent and high-minded Traitors and Rebels? witneſs the moſt wicked endeavours of ſome of them to overthrow our fundamental Laws, and to in<g ref="char:EOLhyphen"/>troduce
+a moſt accurſed Toleration of all licentiouſneſſe, and a meer Chaos and confuſion in all things both ſacred and civil? And are they not notorious Hypocrites,
+having onely an out-ſide form of Godlineſs, but utterly denying the power and practice of it in their private houſes, by holy duties with their families, profeſſing them<g ref="char:EOLhyphen"/>ſelves
+to be above Ordinances? And therefore is it not high time to take heed of, and to turn away from ſuch as they are?</p>
+            <p n="5">
+               <label>The Scripture Looking-Glaſs.</label> V. <hi>And</hi> (as the ſame holy Apoſtle ſayes) <hi>of this ſort, alſo, are all thoſe that creep
+into mens houſes, and lead captive ſilly women</hi> (even as, Satan, the Divel, alſo, at the
+beginning, aſſaulted and ſurprized Eve, the woman, and, then, left her to en<g ref="char:EOLhyphen"/>tice
+and enſnare Adam, her husband. <hi>Gen</hi> 3. 1, 2, 3. &amp;c.) So do theſe men. And
+like <hi>James</hi> and <hi>Jambres</hi> (thoſe wicked Magicians of Egypt, who withſtood
+<hi>Moſes</hi> and <hi>Aaron</hi>) they reject and reſiſt the Truth; being <hi>men of corrupt mindes
+concerning the faith.</hi> And theſe evill men and Seducers, though they go on, <hi>grow
+worſe and worſe, deceiving and being deceived;</hi> yet (certainly) they ſhall not long
+proceed: for, <hi>their folly and madneſſe</hi> breaks forth, and is more and more moſt
+notoriouſly made manifeſt to the world, even as the folly and madneſſe of
+thoſe wicked Inchanters and Magicians was. 2 <hi>Tim.</hi> 3. 6, 8, 9, 13.</p>
+            <p n="5">
+               <label>The Schiſmaticall Reflection, or, Face anſwering Face.</label> V. And, do not our Independents and all ſorts of Sectaries juſt the very ſame thing, by their Jeſuitical Emiſſaries, T. G. P. N. W. G. S. S. J. G. &amp;c.? Who (at
+firſt, about four or five yeers ago, and ſo all along ſince) have moſt boldly and wickedly poyſoned the Kingdoms great Fountain, the Parliament Members: and after
+them, huge <hi>Peters, Oates, Kiffin</hi> the Glover, <hi>Patience</hi> the Botcher, <hi>Gorton</hi> the cheater, and other ſuch like engendred vermin of Religion; who alſo (like Sathan himſelf, and
+their elder Brethren, the Romiſh Jeſuites) crept into mens houſes, and, firſt, ſet upon and aſſaulted ſilly women, apt to be ſeduced, and apteſt to ſeduce their Husbands, chil<g ref="char:EOLhyphen"/>dren
+and ſervants, as we ſee by daily experience? And juſt as <hi>Jannes</hi> and <hi>Jambres</hi> withſtood <hi>Moſes</hi> and <hi>Aaron,</hi> ſo do theſe our Independents and Sectaries oppoſe and with<g ref="char:EOLhyphen"/>ſtand
+our Magiſtracy and Miniſtry, rejecting and reſiſting the Truths of Gods Word; being men of very corrupt mindes; yea, reprobate (or, abominable to God) in
+reſpect of their perverſe doctrines and unſoundneſſe of faith in Chriſt: And like evil men and crafty Seducers, they grow worſe and worſe [moſt of them] deceiving,
+and being deceived. But certainly, they ſhall not [long] thus continue; for their folly and madneſſe breaks forth daily more and more (even to their own ſhame, in very
+many of them) and is very manifeſt to all that are truly wiſe and religious, and whoſe eyes of their underſtanding the Lord hath graciouſly opened.</p>
+            <p n="6">
+               <label>The Scripture Looking-Glaſs.</label> VI. The Apoſtle <hi>Peter,</hi> alſo, tels us of his diſcovery of falſe-Prophets, or
+falſe Apoſtles that <hi>ſhall come</hi> in future Goſpel times, and who began to appear
+among the people in his time; who did, and would <hi>privily bring in damnable
+Hereſies</hi> (and blaſphemous Opinious) <hi>even denying the Lord Chriſt: And, that
+many</hi> ſhould and would <hi>follow their</hi> moſt <hi>pernicious wayes: by reaſon of whom the
+wayes of Truth</hi> would <hi>be evil ſpoken of.</hi> 2 Pet. 2. 1, 2.</p>
+            <p n="6">
+               <label>The Schiſmaticall Reflection, or, Face anſwering Face.</label> VI. And, are not our Independents, Anabaptiſts, Antinomiams and all other Sectaries of theſe our times [moſt directly] thoſe falſe Prophets and Pſeud-apoſtles
+here ſpoken of? who privily (that is, craftily and cunningly, under the painted and ſpecious pretences, or embroidred cloaks of Toleration, liberty, and freedom to tender
+Conſciences, new-Lights, rare Revelations, a glorious Church way, Saints, the godly Partie, &amp;c.) ſhould and would bring in damnable Hereſies, and moſt accurſed and
+blaſphemous Opinions, even [many of them] denying the Lord Jeſus Chriſt (either, by a totall apoſtacie, or through want of ſincere obedience) both in his Deity, and
+in his incarnation; yea, denying the three glorious Perſons in the Trinity, and the ſacred Scriptures, or written Word to be the foundation of our faith; to omit many
+other. And, do we not ſee how many are drawn away by them to follow their pernicious wayes, that is, their peſtilent doctrines? and by reaſon of whom, and their per<g ref="char:EOLhyphen"/>verſe
+pathes, the wayes of truth are exceedingly evill ſpoken of; and the bleſſed work of Covenant-Reformation is moſt ſlanderouſly termed by them Perſecution and
+Tyranny; and Chriſts Government is by them called and counted a bloudy, arbitrary and Antichriſtian ſlavery: and how [thus] they moſt exactly cry out with wick<g ref="char:EOLhyphen"/>ed
+<hi>Athalia,</hi> Treaſon, treaſon, Perſecution, perſecution; whereas they are the moſt cruel and crafty traitors and perſecutors themſelves: witneſs, that true Saint, indeed,
+Mr. <hi>Caughton,</hi> impriſoned by the Saints of theſe times; a ſtrange paradox in piety.</p>
+            <p n="7">
+               <label>The Scripture Looking-Glaſs.</label> 
+               <hi>VII. And the ſame Apoſtle goes on, and tels us, that</hi> through co<g ref="char:EOLhyphen"/>vetouſneſſe,
+they ſhall with fained words make merchandize of <hi>their
+Diſciples and Proſelites,</hi> whoſe judgment lingereth not, and whoſe
+damnation ſlumbreth not; <hi>but chiefly, thoſe that</hi> walk after the fleſh,
+in the luſts of uncleanneſſe, who deſpiſe Government, and <hi>preſumptu<g ref="char:EOLhyphen"/>ouſly</hi>
+ſpeak evill of Dignities: <hi>and,</hi> like brute-beaſts, ſpeak evill of
+the things which they underſtand not; and ſhall <hi>therefore</hi> periſh ut<g ref="char:EOLhyphen"/>terly
+in their own corruption, and ſhall receive the reward of unrigh<g ref="char:EOLhyphen"/>teouſneſſe.
+Spots they are and blemiſhes, ſpotting themſelves with
+their own deceivings, and ſeducing others, while they feaſt with you;
+Having eyes full of adultery, and that ceaſe not from ſin: Beguiling
+unſtable ſouls, their hearts being exerciſed with covetous practices.
+Curſed children, Wels without water, clouds carried with a tempeſt,
+to whom the mist of darkneſſe is reſerved for ever. Speaking great
+ſwelling words of vanity, and promiſing liberty to others, whenas them<g ref="char:EOLhyphen"/>ſelves
+are the ſervants of corruption, 2 <hi>Pet.</hi> 2. 3, 10, 12, 13, 14,
+17, 18, 19.</p>
+            <p n="7">
+               <label>The Schiſmaticall Reflection, or, Face anſwering Face.</label> VII. And does not the Apoſtle <hi>Peter</hi> here alſo moſt lively delineate our Sectaries and Independents practices, manners and conditions? Who, indeed, through covetouſ<g ref="char:EOLhyphen"/>neſs
+(witneſſe their many Lectures, and fat collections at their itinerary [or, rather, vagrant] preachings) by fained and painted words, framed to a ſhew of piety, mildneſſe,
+and charity, craftily endeavour to lay hold on their diſciples goods, with the ruine of their ſouls. Haſtening their own damnation by moſt ſeditiouſly contemning Go<g ref="char:EOLhyphen"/>vernment,
+and moſt inſolently and preſumptuouſly ſpeaking evil of Dignities, Kings, Lords, and Rulers; and therefore are juſtly left utterly to periſh in the corruption
+of their own minds, as foul ſpots and blemiſhes of Religion, ſeducing and deceiving thoſe that feaſt and entertain them. Being, herein, curſed children, in that they are,
+as it were, empty wels without water, barren and fruitleſſe in themſelves of any true good, and without ſap or moiſture of true ſoul-ſaving grace, to make others truly
+gracious and growing Chriſtians: yea, they are vapouring and vaniſhing clouds, driven to and fro with the fleeting blaſts and tempeſts of their moſt vain and hereti<g ref="char:EOLhyphen"/>call
+mindes; for whom the miſts and foggs of infernal darkneſſe is reſerved for ever. Who uſe to ſpeak great ſwelling and ſwaggering words of vanity and boaſting hy<g ref="char:EOLhyphen"/>pocriſie
+of Saintſhip, and godly partie, &amp;c. uſing a lofty and proud flaſhie ſtile, both in their writing and preaching, eſpecially (as reverend Mr. <hi>Deodate</hi> notes moſt truly,
+in his expoſition on this Scripture) with high ſoaring and cloudy notions, and ſpeculations to make their hearers admire them, though they little or nothing at all un<g ref="char:EOLhyphen"/>derſtand
+them; and oft times their words being extremely void of truth, or of any vertue of Gods holy Spirit to ſound edification. And thus they alſo falſly and fal<g ref="char:EOLhyphen"/>laciouſly
+promiſe liberty to others (in ſuffering and inciting their novice-diſciples to commit groſſe ſins, and luſtful perpetrations under the vizard of Chriſtian liberty)
+whereas themſeles [as here the Apoſtle ſayes] are moſt ſervile ſlaves, and ſervants of accurſed Corruption.</p>
+            <p n="8">
+               <label>The Scripture Looking-Glaſs.</label> 
+               <hi>VIII.</hi> There are (<hi>ſaith the Apoſtle</hi> Jude alſo) certain men crept
+in, unawares, who were of old ordained to condemnation, ungodly
+men, who turn the grace of our God into laſciviouſneſſe. Filthie
+Dreamers, who deſpiſe Dominions, and ſpeak evil of Dignities:
+Who have gone in the way of Kain, and ran greedily after the er<g ref="char:EOLhyphen"/>rour
+of Balaam for reward, and periſhed in the gain-ſaying of Corc.
+Spots they are in your Feasts of Love, when they feast with you,
+feeding themſelves without fear. Clouds they are without water,
+carried about with winds; Trees whoſe fruit withereth; without
+fruit, twice dead, pluck'd up by the roots; raging waves of the ſea,
+foaming out their own ſhame; wandering Stars, to whom is reſer<g ref="char:EOLhyphen"/>ved
+the blackneſſe of darkneſſe for ever. Murmurers, complain<g ref="char:EOLhyphen"/>ers,
+walking after their own luſts, ſpeaking great ſwelling words,
+having mens perſons in admiration for advantage: Mockers, who
+walk after their own ungodly Luſts. Theſe are they who ſeparate
+themſelves, ſenſuall, and not having the Spirit, <hi>Jude, ver.</hi> 4, 8, 12,
+13, 16, 18, 19.</p>
+            <p n="8">
+               <label>The Schiſmaticall Reflection, or, Face anſwering Face.</label> VIII. See here again (impartial &amp; unprejudiced Reader) how moſt remarkably the Apoſtle <hi>Jude</hi> deſcribes the Independents, Anabaptiſts, and all other Schiſmaticks &amp;
+Sectaries of our times, to be Corner-creepers, &amp; ſly ſtealers into mens houſes &amp; hearts, branding them alſo with the black mark of ungodly men, turning the grace of our
+God into wantonneſs and laſciviouſneſs, as if Gods word and free grace allowed them in any groſs ſin, under a falſe &amp; wicked pretence of being in Chriſt, as falſ-hearted
+<hi>Feak</hi> maintains, and preachers; and therfore the Apoſtle gives them their doom; aſſuring us, that ſuch as theſe were ordained by Gods eternal decree unto everlaſting con<g ref="char:EOLhyphen"/>demnation
+And ſo the Apoſtle goes on, and calls them filthy dreamers, or brain-ſick men, by their new Lights &amp; enthuſiaſtick Revelations; deſpiſing, and ſpeaking evil of
+Government, godly Order and obedience to any Authority, ſave onely that which is of their own ſetting up: And truly, this is very obſervable, that the Spirit of God ſets
+down this as a principal mark of Seducers &amp; Hypocrites, in that, theſe Apoſtles do, ſo often, mention their deſpiſing Dignities, or Dominions, Kings, Lords, Magiſtrates
+and Miniſters, whom they cannot abide, becauſe they would keep them within the bounds of godly order and obedience. And then the Apoſtle proceeds to aggravate this
+ſin in them, comparing it to the wages of <hi>Cain,</hi> who was the firſt that wickedly departed from the true Church; and of baſely covetous <hi>Balaam,</hi> carried into errors by the bait
+of gain &amp; worldly pleaſures; and imitating <hi>Core</hi> and his rebellious Companions, in riſing up againſt the true Paſtors and Governors of the Church of Chriſt, and there<g ref="char:EOLhyphen"/>fore
+incurring the like unavoidable perdition that thoſe men juſtly ſuffered. Yea, the Apoſtle calls them ſpotted and crafty, ſeducing ſmel-feaſts, who abuſed that godly
+cuſtom of the Saints ſociety, unto gluttony and exceſſe. Vaporous clouds without rain; and ſuch [indeed] are almoſt all Sectaries, fluttering and flaſhing up and down,
+without any moiſture or ſolidity. Fruitleſſe trees, which alſo have neither life nor ſap, (like withered trees in Autumn) unfit to bring forth any good fruit of holineſſe in
+themſelves, or edification to others; yea, trees twice dead, by apoſtatizing and falling off from the life of grace, to ſin and death; and, as it were, pluck'd up by the roots,
+even cut off from ſpiritual union with Chriſt: Raging waves, and foaming ſeas, even unſetled and proud ſpirits, belching out abominable Doctrines, and blaſphemous
+Opinions. Murmurers and complainers, men of contentious and impatient ſpirits; Admirers alſo of mens perſons and parts for advantage, and to gain by them for
+their baſe and falſe flattering of them. Mockers and abuſers of other men far better than themſelves, in all reſpects: and, O how daily and ſadly do we ſee this practiſed,
+eſpecially in printed Pamphlets, and that with authority, wherein our moſt pious and painfull, learned and religious Miniſters are called no leſs than <hi>Baals</hi> prieſts, Sons
+of <hi>Belial,</hi> Sir <hi>Jack Presbyters,</hi> and ſuch like moſt baſe and ignominious names, by the mercenary Sectarian Pamphleters of theſe times; but to go on, and conclude; Separa<g ref="char:EOLhyphen"/>ting
+themſelves from their Brethren (as ſenſuall and carnal ſelf-ſeeking men, who have not the Spirit) wilfully cutting themſelves off from the true ſpiritual Commu<g ref="char:EOLhyphen"/>nion
+of Gods Church, and are thereby deprived of the life, grace, and holy Spirit of the Prince of Peace and Union, the Lord Jeſus Chriſt, <hi>John</hi> 15. 6.</p>
+            <epigraph>
+               <q>Wo unto the world becauſe of offences; it muſt needs be that Offences come, but wo to that man by whom the offence cometh: For whoſoever ſhall offend one of thoſe little ones which beleeve on me, it were
+better for him that a milſtone were hanged about his neck, and that he were drowned in the depth of the Scan</q>
+               <bibl>
+                  <hi>Matth.</hi> 18. 7. 8.</bibl>
+            </epigraph>
+            <epigraph>
+               <q>Such are falſe Apoſtles, deceitfull workers, transforming themſelves into the Apoſtles of Chriſt; and no marvell, for Satan himſelf is transformed into an Angel of light: Therefore it is no great thing,
+if his Miniſters alſo be transformed, as the Miniſters of righteouſneſſe, whoſe end ſhall be according to their works.</q>
+               <bibl>2 <hi>Cor.</hi> 11. 13, 14, 15.</bibl>
+            </epigraph>
+            <epigraph>
+               <q>It is impoſſible for thoſe who were once enlightned, and have taſted of the heavenly gift, and have been made partakers of the Holy Ghoſt, and have taſted the good word of God, and the powers of the
+world to come; if they fall away, to renew them again to repentance; ſeeing they crucifie to themſelves the Son of God afreſh, and put him to an open ſhame. The juſt ſhall live by faith; but if
+any man draw back (<hi>or fall away</hi>) my ſoul ſhall have no pleaſure in him.</q>
+               <bibl>
+                  <hi>Heb. 6. 4. and,</hi> 10. 38.</bibl>
+            </epigraph>
+         </div>
+         <div type="to_the_reader">
+            <p>Conſult, then (O all ye backſliding and apoſtatizing Independents, Sectaries and Schiſmaticks) this fair and faithfull Scripture Looking-Glaſs;
+and ſee how neer ye come to the ſin againſt the holy Ghoſt, and fear, and tremble.</p>
+            <l>Qui cum Jeſu itis, non itis cum Jeſuitis,</l>
+            <l>vel Romanis, vel Schiſmaticis:</l>
+            <p>that is,</p>
+            <l>Who-ere, to walk with Jeſus Chriſt, delights,</l>
+            <l>Shun Romiſh and Sectarian Jeſuites.—</l>
+            <closer>
+               <signed>JOHN VICARS.</signed>
+            </closer>
+         </div>
+         <div type="epigraph">
+            <head>The Schiſmatical WOLF
+Sented.</head>
+            <bibl>MATTH. 7. 15.</bibl>
+            <p>Beware of falſe Prophets, which
+come to you in Sheeps clothing;
+but, inwardly, they are ra<g ref="char:EOLhyphen"/>vening
+Wolves: yee ſhal
+know them by
+their Fruits.</p>
+         </div>
+         <div type="epigraph">
+            <head>The Heretical FOX
+Hunted.</head>
+            <bibl>CANT. 2 15.</bibl>
+            <p>Take us the Foxes, the little
+Foxes that ſpoil the Vines;
+for our Vines have very
+tender Grapes.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>T. M.</hi> 1649.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
